@@ -1,0 +1,18 @@
+{
+  "name": "sendell-en-directo",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "El avatar ASCII de Sendell y su lenguaje de actividad: motor de dibujo, formas, video y la página «Crea tu agente».",
+  "scripts": {
+    "test": "node --test pruebas/ guardian/ agente/",
+    "agente": "node agente/servir.mjs",
+    "hoja": "node hojas/hoja-avatar.mjs",
+    "video:avatar": "node video/demo-avatar.mjs",
+    "video:formas": "node video/demo-formas.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "Apache-2.0"
+}

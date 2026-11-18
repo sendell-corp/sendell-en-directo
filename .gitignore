@@ -1,0 +1,8 @@
+node_modules/
+salida/
+hojas/*.png
+hojas/*.svg
+*.log
+*.mp4
+.env
+.env.*
