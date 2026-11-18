@@ -3,7 +3,7 @@
 //   · Privada (hábitat de la red local): dice de verdad qué sesión hizo qué, sobre qué archivo y cuándo.
 //   · Pública (videos, hábitat de sendell.co): solo enumerados y nombres alternos. La escribe captura/publico.mjs
 //     a partir de la privada, con negación por defecto, y la revisa guardian/.
-// Ninguna capa guarda jamás el texto de lo que escribe Daniel, el razonamiento de un modelo ni la salida de un comando.
+// Ninguna capa guarda jamás el texto de lo que escribe el fundador, el razonamiento de un modelo ni la salida de un comando.
 
 export const VERSION = 1;
 export const FUENTES = ['claude', 'openclaw', 'git'];

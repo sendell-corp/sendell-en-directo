@@ -5,11 +5,11 @@
 Un solo motor convierte el trabajo real de las sesiones de agentes en avatar y lenguaje ASCII. Tiene dos salidas:
 
 1. **Hábitat privado en la red local.** Una página que solo se ve en casa y enseña en vivo lo que cada sesión hace o no hace.
-2. **Video grabado.** Filtrado, narrado y aprobado por Daniel antes de publicarse. El piloto es sobre Forja.
+2. **Video grabado.** Filtrado, narrado y aprobado por el fundador antes de publicarse. El piloto es sobre Forja.
 
 Más adelante, el hábitat público de sendell.co lee la capa pública, y Sendell aprende a hacerlo todo con una skill.
 
-## Reglas de Daniel (no se negocian)
+## Reglas del fundador (no se negocian)
 
 - **Actividad real, no simulada.** Solo un evento confirmado mueve al avatar. Un proceso vivo no es trabajo y el silencio no es descanso: se dice «sin señal».
 - **Sus prompts son privados.** Ninguna capa guarda ni enseña el texto que él escribe, ni el razonamiento de un modelo, ni la salida de un comando. Del encargo solo queda el hecho y la hora.
